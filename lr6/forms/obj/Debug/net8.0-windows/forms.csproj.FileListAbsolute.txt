@@ -1,0 +1,16 @@
+C:\Users\DaBro\Desktop\lr6\forms\bin\Debug\net8.0-windows\forms.exe
+C:\Users\DaBro\Desktop\lr6\forms\bin\Debug\net8.0-windows\forms.deps.json
+C:\Users\DaBro\Desktop\lr6\forms\bin\Debug\net8.0-windows\forms.runtimeconfig.json
+C:\Users\DaBro\Desktop\lr6\forms\bin\Debug\net8.0-windows\forms.dll
+C:\Users\DaBro\Desktop\lr6\forms\bin\Debug\net8.0-windows\forms.pdb
+C:\Users\DaBro\Desktop\lr6\forms\obj\Debug\net8.0-windows\forms.Form1.resources
+C:\Users\DaBro\Desktop\lr6\forms\obj\Debug\net8.0-windows\forms.csproj.GenerateResource.cache
+C:\Users\DaBro\Desktop\lr6\forms\obj\Debug\net8.0-windows\forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaBro\Desktop\lr6\forms\obj\Debug\net8.0-windows\forms.AssemblyInfoInputs.cache
+C:\Users\DaBro\Desktop\lr6\forms\obj\Debug\net8.0-windows\forms.AssemblyInfo.cs
+C:\Users\DaBro\Desktop\lr6\forms\obj\Debug\net8.0-windows\forms.csproj.CoreCompileInputs.cache
+C:\Users\DaBro\Desktop\lr6\forms\obj\Debug\net8.0-windows\forms.dll
+C:\Users\DaBro\Desktop\lr6\forms\obj\Debug\net8.0-windows\refint\forms.dll
+C:\Users\DaBro\Desktop\lr6\forms\obj\Debug\net8.0-windows\forms.pdb
+C:\Users\DaBro\Desktop\lr6\forms\obj\Debug\net8.0-windows\forms.genruntimeconfig.cache
+C:\Users\DaBro\Desktop\lr6\forms\obj\Debug\net8.0-windows\ref\forms.dll

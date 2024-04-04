@@ -1,0 +1,14 @@
+C:\Users\DaBro\Desktop\lr6\lr6\bin\Debug\net8.0\lr6.exe
+C:\Users\DaBro\Desktop\lr6\lr6\bin\Debug\net8.0\lr6.deps.json
+C:\Users\DaBro\Desktop\lr6\lr6\bin\Debug\net8.0\lr6.runtimeconfig.json
+C:\Users\DaBro\Desktop\lr6\lr6\bin\Debug\net8.0\lr6.dll
+C:\Users\DaBro\Desktop\lr6\lr6\bin\Debug\net8.0\lr6.pdb
+C:\Users\DaBro\Desktop\lr6\lr6\obj\Debug\net8.0\lr6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaBro\Desktop\lr6\lr6\obj\Debug\net8.0\lr6.AssemblyInfoInputs.cache
+C:\Users\DaBro\Desktop\lr6\lr6\obj\Debug\net8.0\lr6.AssemblyInfo.cs
+C:\Users\DaBro\Desktop\lr6\lr6\obj\Debug\net8.0\lr6.csproj.CoreCompileInputs.cache
+C:\Users\DaBro\Desktop\lr6\lr6\obj\Debug\net8.0\lr6.dll
+C:\Users\DaBro\Desktop\lr6\lr6\obj\Debug\net8.0\refint\lr6.dll
+C:\Users\DaBro\Desktop\lr6\lr6\obj\Debug\net8.0\lr6.pdb
+C:\Users\DaBro\Desktop\lr6\lr6\obj\Debug\net8.0\lr6.genruntimeconfig.cache
+C:\Users\DaBro\Desktop\lr6\lr6\obj\Debug\net8.0\ref\lr6.dll
