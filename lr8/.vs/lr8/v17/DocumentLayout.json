@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\lr8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50968978-78F0-47DF-8AF1-2A9F9F947092}|lr8\\lr8.csproj|c:\\users\\pc\\downloads\\lr8\\lr8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50968978-78F0-47DF-8AF1-2A9F9F947092}|lr8\\lr8.csproj|solutionrelative:lr8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50968978-78F0-47DF-8AF1-2A9F9F947092}|lr8\\lr8.csproj|c:\\users\\pc\\downloads\\lr8\\lr8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50968978-78F0-47DF-8AF1-2A9F9F947092}|lr8\\lr8.csproj|solutionrelative:lr8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50968978-78F0-47DF-8AF1-2A9F9F947092}|lr8\\lr8.csproj|c:\\users\\pc\\downloads\\lr8\\lr8\\lr8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50968978-78F0-47DF-8AF1-2A9F9F947092}|lr8\\lr8.csproj|solutionrelative:lr8\\lr8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lr8",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\lr8\\lr8\\lr8.csproj",
+              "RelativeDocumentMoniker": "lr8\\lr8.csproj",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\lr8\\lr8\\lr8.csproj",
+              "RelativeToolTip": "lr8\\lr8.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T20:05:04.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\lr8\\lr8\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lr8\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\lr8\\lr8\\MainWindow.xaml",
+              "RelativeToolTip": "lr8\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T14:49:19.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\lr8\\lr8\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lr8\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\lr8\\lr8\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lr8\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwCwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:49:19.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
