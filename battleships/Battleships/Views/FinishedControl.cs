@@ -24,11 +24,11 @@ namespace Battleships.Views
 
             if (game.FirstPlayer.Field.HasAliveShips())
             {
-                winnerLabel.Text = "Победил человек";
+                winnerLabel.Text = "Ви перемогли";
             }
             else
             {
-                winnerLabel.Text = "Победил AI";
+                winnerLabel.Text = "Переміг бот";
             }
         }
     }
